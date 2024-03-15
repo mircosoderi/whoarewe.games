@@ -1,0 +1,227 @@
+{
+	"identity": [
+		{
+			"question": "What is your gender identity?",
+			"option1": "Male",
+			"option2": "Female", 
+			"option3": "Non-binary"
+		},
+		{
+			"question": "How do you primarily identify your gender?",
+			"option1": "Cisgender",
+			"option2": "Transgender", 
+			"option3": "Genderqueer"
+		},		
+		{
+			"question": "Which pronouns do you prefer?",
+			"option1": "He/Him",
+			"option2": "She/Her", 
+			"option3": "They/Them"
+		},			
+		{
+			"question": "Have you ever questioned your gender identity?",
+			"option1": "Yes",
+			"option2": "No", 
+			"option3": "Not sure"
+		},	
+		{
+			"question": "Do you comfortably express your gender identity?",
+			"option1": "Yes, very",
+			"option2": "So and so",
+			"option3": "Not at all"
+		},			
+		{
+			"question": "Have you faced challenges due to your identity?",
+			"option1": "Yes, frequently",
+			"option2": "Yes, occasionally",
+			"option3": "No, never."
+		},		
+		{
+			"question": "Are you informed about gender diversity?",
+			"option1": "I am well-informed",
+			"option2": "I have heard of it",
+			"option3": "No"
+		},	
+		{
+			"question": "Are you supported by friends and family?",
+			"option1": "Extremely",
+			"option2": "Somewhat",
+			"option3": "Not at all"
+		},	
+		{
+			"question": "Have you sought professional support?",
+			"option1": "Yes",
+			"option2": "Not yet",
+			"option3": "No"
+		},		
+		{
+			"question": "Do media adequately represent diverse identities?",
+			"option1": "Yes",
+			"option2": "Not yet",
+			"option3": "Not at all"
+		}
+	],
+	"expression": [		
+		{
+			"question": "Have you faced prejudice based on your gender expression?",
+			"option1": "Yes, frequently",
+			"option2": "Yes, occasionally",
+			"option3": "No, never"
+		},		
+		{
+			"question": "Have you altered your appearance to conform to societal expectations?",
+			"option1": "Yes, frequently",
+			"option2": "Yes, occasionally",
+			"option3": "No, never"
+		},
+		{
+			"question": "How important is the concept of gender identity in your life?",
+			"option1": "Very important",
+			"option2": "Somewhat important",
+			"option3": "Not important"
+		},	
+		{
+			"question": "Have you participated in any LGBTQ+ supportive events?",
+			"option1": "Yes, regularly",
+			"option2": "Yes, occasionally",
+			"option3": "No, never"
+		},
+		{
+			"question": "How accepted do you feel based on your gender expression?",
+			"option1": "Very accepted",
+			"option2": "Partially accepted",
+			"option3": "Not accepted"
+		},		
+		{
+			"question": "Have you ever got positive reactions to your gender expression?",
+			"option1": "Yes, frequently",
+			"option2": "Yes, occasionally",
+			"option3": "No, never"
+		},
+		{
+			"question": "Are you comfortable discussing your gender expression?",
+			"option1": "Yes, very comfortable",
+			"option2": "Somewhat comfortable",
+			"option3": "Not comfortable"
+		},	
+		{
+			"question": "How often do you encounter gender-inclusive language in daily life?",
+			"option1": "Frequently",
+			"option2": "Occasionally",
+			"option3": "Rarely"
+		},	
+		{
+			"question": "Have you received any education on gender identity and expression?",
+			"option1": "Yes, extensive education",
+			"option2": "Yes, some education",
+			"option3": "No formal education"
+		}
+	],
+	"sex": [
+		{
+			"question": "Which of the following terms best describes your biological sex?",
+			"option1": "Assigned Male at Birth",
+			"option2": "Assigned Female at Birth",
+			"option3": "Intersex"
+		},
+		{
+			"question": "Have you undergone any medical procedure to change your biological sex?",
+			"option1": "Yes",
+			"option2": "No",
+			"option3": "Prefer not to answer"
+		},		
+		{
+			"question": "In which category do you feel your biological sex most aligns?",
+			"option1": "Male",
+			"option2": "Female",
+			"option3": "Other"
+		},			
+		{
+			"question": "How comfortable do you feel discussing issues related to biological sex?",
+			"option1": "Very comfortable",
+			"option2": "Somewhat comfortable",
+			"option3": "Not comfortable at all"
+		},		
+		{
+			"question": "Do you think discussions about biological sex and gender are important?",
+			"option1": "Yes, very important",
+			"option2": "Somewhat important",
+			"option3": "Not important"
+		},	
+		{
+			"question": "Are you familiar with the concept of intersex?",
+			"option1": "Yes, very familiar",
+			"option2": "Somewhat familiar",
+			"option3": "Not familiar at all"
+		},	
+		{
+			"question": "Do you often discuss about biological sex and gender in your daily life?",
+			"option1": "Yes, frequently",
+			"option2": "No, just occasionally",
+			"option3": "No, never"
+		},			
+		{
+			"question": "Is the understanding of the difference between sex and gender crucial?",
+			"option1": "Yes, absolutely",
+			"option2": "Somewhat important",
+			"option3": "Not important"
+		},			
+		{
+			"question": "Should public forms/surveys provide more options than just male and female?",
+			"option1": "Yes",
+			"option2": "No",
+			"option3": "Unsure"
+		}
+	],
+	"orientation": [
+		{
+			"question": "What is your sexual orientation?",
+			"option1": "Heterosexual/Straight",
+			"option2": "Homosexual/Gay/Lesbian",
+			"option3": "Bisexual/Pansexual"
+		},
+		{
+			"question": "Have you ever had a sexual relationship with someone of the same gender?",
+			"option1": "Yes",
+			"option2": "No",
+			"option3": "Prefer not to say"
+		},
+		{
+			"question": "Have you ever had a sexual relationship with someone of a different gender?",
+			"option1": "Yes",
+			"option2": "No",
+			"option3": "Prefer not to say"
+		},		
+		{
+			"question": "How comfortable do you feel discussing your sexual orientation with others?",
+			"option1": "Very comfortable",
+			"option2": "Somewhat comfortable",
+			"option3": "Not comfortable"
+		},			
+		{
+			"question": "Have you publicly disclosed your sexual orientation to friends and family?",
+			"option1": "Yes, to everyone",
+			"option2": "Yes, to some people",
+			"option3": "Not yet"
+		},		
+		{
+			"question": "How important is your sexual orientation in defining your overall identity?",
+			"option1": "Very important",
+			"option2": "Somewhat important",
+			"option3": "Not important"
+		},			
+		{
+			"question": "Have you faced any discrimination based on your sexual orientation?",
+			"option1": "Yes",
+			"option2": "No",
+			"option3": "Prefer not to say"
+		},	
+		{
+			"question": "Do you feel supported by your community regarding your sexual orientation?",
+			"option1": "Yes",
+			"option2": "No",
+			"option3": "It varies"
+		}		
+	]
+}		
+		

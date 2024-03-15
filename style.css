@@ -1,0 +1,199 @@
+body {
+	font-family: sans-serif;
+}
+
+form fieldset {
+	margin: 1em;
+}
+
+form fieldset ol {
+	margin: 0px;
+	padding: 0px;
+}
+
+form fieldset ol li {
+	list-style-type: none;
+	padding: 0.5em;
+}
+
+form button[type="submit"] {
+	display: block;
+	margin: 1em auto;
+	padding: 0.5em;
+	width: 100%;
+}
+
+h1 a, h1 a:visited {
+	display: block;
+	text-decoration: none;
+	background: black;
+	color: white;
+	width: 100%;
+}
+
+h2.question {
+	text-align: center;
+}
+
+p.option {
+	width: 16em;
+	font-size: large;
+	border: thin solid black;
+	background: lightgray;
+	cursor: pointer;
+	float: left;
+	padding: 2em 0.5em 2em 0.5em;
+	margin: 2em;
+	text-align:center;
+}
+
+p.selected.option {
+	background: darkgray;
+}
+
+div#time {
+	background: black;
+	height: 1em;
+	display: inline-block;
+}
+
+div#timewrapper {
+	text-align: center;
+	clear: both;
+}
+
+div#survey {
+	height: 240px; 
+	overflow-y: auto; 
+	margin: 0px; 
+	padding: 0px;
+}
+
+div#surveyOverview {
+	float:left; 
+	height: 240px; 
+	margin: 0px; 
+	padding: 0px;
+}
+
+a.linkToQuestion, a.linkToQuestion:visited, a.linkToSection, a.linkToSection:visited  {
+	margin-right:1em;
+	margin-bottom: 1em;
+	padding:0.5em;
+	display:block; 
+	float: left;
+	background: darkgray;
+	border: thin solid black;
+	text-decoration: none; 
+	color: black;
+}
+
+a.linkToSection {
+	clear: left;
+	width: 10em;
+}
+
+div#survey h4, div#surveyOverview h4 {
+	margin-top:0px;
+	padding-top:0px;
+}
+
+#form6 table, #resume table {
+	border-collapse: collapse;
+	border: thin solid black;
+}
+
+#form6 td, #resume td {
+	border: thin solid black;
+	padding: 0.5em;
+	text-align:center;
+}
+
+#form6 thead td, #resume thead td {
+	font-weight:bold;
+}
+
+#resume a, #resume a:visited {
+	text-decoration:none;
+	color: black;
+	font-weight: bold;
+}
+
+h2.flag {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px; 
+	font-family: monospace;
+}
+
+table.result {
+	border-collapse: collapse;
+	border: thin solid black;
+}
+
+table.result td.aspect {
+	font-weight:bold;
+	vertical-align: center;
+}
+
+table.result td {
+	padding: 0.5em;
+	border: thin solid gray;
+}
+
+table.result td.ll {
+	border-right: thin solid transparent !important;
+}
+
+table.result td.rl {
+	border-left: thin solid transparent !important;
+}
+
+table.result td.range {
+	border-left: thin solid transparent !important;
+	border-right: thin solid transparent !important;
+}
+table.rank {
+		border-collapse: collapse;
+}
+
+table.rank thead td {
+	color: white;
+	background: black;
+	border: thin solid white;
+	padding:0.5em;
+}
+
+table.rank td {
+	border: thin solid black;
+	padding: 0.5em; 
+	text-align:center;
+}
+
+table.rank td.flag {
+	border-right: thin solid transparent; 
+	vertical-align:middle;
+	line-height:0%;
+	padding: none;
+	text-align: left;
+}
+
+table.rank td.nickname {
+	border-left: thin solid transparent;
+	padding: none;
+	text-align: left;
+}
+
+table.rank td.flag img {
+	border: thin solid gray; 
+	height: 1em;
+}
+
+table.rank tr.highlight td {
+	background: yellow;
+	padding-top:1em;
+	padding-bottom:1em;
+	font-size: larger; 
+	font-weight:bold;
+}
